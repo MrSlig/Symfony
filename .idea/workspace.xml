@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b9d3575-d27f-408c-82bc-e4e8f6337525" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Controller/DefaultController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/index.html.twig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/post.html.twig" />
-    </list>
+    <list default="true" id="3b9d3575-d27f-408c-82bc-e4e8f6337525" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -253,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517244578752</updated>
-      <workItem from="1517244579978" duration="6351000" />
+      <workItem from="1517244579978" duration="6789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6351000" />
+    <option name="totallyTimeSpent" value="6789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1606" height="872" extended-state="6" />
